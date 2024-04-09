@@ -1,0 +1,8 @@
+.custom-logo {
+  width: 135px;
+}
+@media screen and (max-width: 768px) {
+  .custom-logo {
+    width: 110px;
+  }
+}
